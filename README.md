@@ -1,40 +1,48 @@
+# Julien Harbulot
+
 Senior software engineer building distributed systems and blockchain
 infrastructure in Go and Python.
 
-Most recently at SSV Labs, I architected and delivered SSV Exporter v2
-and authored 60+ merged pull requests across P2P/libp2p, protocol changes,
-API architecture, performance, observability, testing and production reliability.
+Most recently at SSV Labs, I took over technical ownership of an in-progress
+Exporter v2 implementation and drove its stabilization, release, and continued
+evolution. I also authored 60+ merged pull requests across P2P/libp2p, protocol
+changes, API architecture, concurrency, performance, observability, testing,
+and production reliability.
 
-Previously at Bitpanda, I worked on high-stakes blockchain services,
-took acting technical-lead responsibilities and mentored engineers across
+Previously at Bitpanda, I worked on high-stakes blockchain services, assumed
+acting technical-lead responsibilities, and mentored 17 engineers across
 blockchain teams.
 
 I am open to Senior IC roles in distributed systems, blockchain infrastructure,
-backend platforms and production reliability.
+backend platforms, and production reliability.
 
 ## Selected engineering work
 
 - [SSV open-source contributions](https://github.com/ssvlabs/ssv/pulls?q=is%3Apr+author%3Ajulienharbulot)
-  - Exporter v2 architecture and API evolution
+  - Exporter v2 stabilization, release, and continued technical evolution
+  - Layered refactoring of exporter processing and API boundaries
   - Scheduled-duty pipeline using Roaring Bitmaps
-  - P2P, protocol, concurrency and reliability improvements
+  - P2P, protocol, concurrency, and reliability improvements
   - Peer-scoring optimization from O(n²) to O(n log n)
 
-- [Solidity gas optimization study](https://github.com/julienharbulot/2021-solidity-maclaurin-series-optimization)
-  - Algorithmic, calldata and EVM optimization trade-offs
+- [Solidity gas-optimization study](https://github.com/julienharbulot/2021-solidity-maclaurin-series-optimization)
+  - Algorithmic, calldata, and EVM optimization trade-offs
   - Up to 79% measured gas reduction in documented benchmarks
 
 - [Clean architecture example](https://github.com/julienharbulot/clean-architecture-example)
   - Python application core exposed through HTTP and Kafka adapters
 
-- [C/SDL Sokoban](https://github.com/julienharbulot/2009-sokoban-game-c-sdl)
-  - Graphical and text interfaces, tests and documented architecture
+- [C/SDL Sokoban reconstruction](https://github.com/julienharbulot/2009-sokoban-game-c-sdl)
+  - A 2025 from-scratch reconstruction of my 2009 Sokoban game in C and
+    SDL 1.2, built with period-appropriate tools and constraints
+  - Separate graphical and text interfaces, shared game logic, level loading,
+    serialization, unit tests, and a state-machine-driven architecture
 
 ## Current focus
 
-Go, distributed systems, Ethereum infrastructure, P2P/libp2p,
-API evolution, concurrency, performance and production reliability.
+Go, distributed systems, Ethereum infrastructure, P2P/libp2p, API evolution,
+concurrency, performance, observability, and production reliability.
 
 ## Contact
 
-- [LinkedIn: linkedin.com/in/julienharbulot](linkedin.com/in/julienharbulot)
+- [LinkedIn](https://www.linkedin.com/in/julienharbulot)
