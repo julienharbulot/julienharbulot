@@ -1,7 +1,7 @@
 # Julien Harbulot
 
 Senior software engineer building distributed systems and blockchain
-infrastructure in Go and Python.
+infrastructure in Go, Python and Typescript.
 
 Most recently at SSV Labs, I took over technical ownership of an in-progress
 Exporter v2 implementation and drove its stabilization, release, and continued
@@ -25,6 +25,9 @@ backend platforms, and production reliability.
   - P2P, protocol, concurrency, and reliability improvements
   - Peer-scoring optimization from O(n²) to O(n log n)
 
+- [RouteLab](https://github.com/julienharbulot/routelab/)
+  - A deterministic TypeScript liquidity solver combining bounded graph search, exact bigint execution and shadow-price split allocation; improved 318/414 result-blind eligible evaluation cells with zero regressions, then refactored the pipeline into a resource-bounded, deadline-aware runtime that preserves an exactly authorized incumbent across stops and failures.
+  
 - [Solidity gas-optimization study](https://github.com/julienharbulot/2021-solidity-maclaurin-series-optimization)
   - Algorithmic, calldata, and EVM optimization trade-offs
   - Up to 79% measured gas reduction in documented benchmarks
