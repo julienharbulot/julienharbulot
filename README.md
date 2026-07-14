@@ -43,7 +43,7 @@ backend platforms, and production reliability.
 
 ## Current focus
 
-Go, distributed systems, Ethereum infrastructure, P2P/libp2p, API evolution,
+Typescript, Go, distributed systems, Ethereum infrastructure, solver systems, P2P/libp2p, API evolution,
 concurrency, performance, observability, and production reliability.
 
 ## Contact
