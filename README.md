@@ -13,7 +13,7 @@ Previously at Bitpanda, I worked on high-stakes blockchain services, assumed
 acting technical-lead responsibilities, and mentored 17 engineers across
 blockchain teams.
 
-I am open to Senior and Staff IC roles in backend and platform engineering, distributed systems, and cloud infrastructure, with a focus on reliability and performance.
+I am open to Senior and Staff IC roles.
 
 ## Selected engineering work
 
@@ -40,10 +40,6 @@ I am open to Senior and Staff IC roles in backend and platform engineering, dist
   - Separate graphical and text interfaces, shared game logic, level loading,
     serialization, unit tests, and a state-machine-driven architecture
 
-## Current focus
-
-Typescript, Go, distributed systems, Ethereum infrastructure, solver systems, P2P/libp2p, API evolution,
-concurrency, performance, observability, and production reliability.
 
 ## Contact
 
